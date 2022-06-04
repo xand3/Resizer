@@ -1,0 +1,9 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+#logo {
+    width: 50px;
+}
+#navbarNav {
+    justify-content: space-evenly;
+}
