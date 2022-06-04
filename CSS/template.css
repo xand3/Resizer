@@ -1,9 +1,9 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
-}
 #logo {
     width: 50px;
 }
-#navbarNav {
-    justify-content: space-evenly;
+.btn {
+    background-color: aliceblue;
+    color: #000;
+    margin-left: 15px;
+    border-color: aliceblue;
 }
