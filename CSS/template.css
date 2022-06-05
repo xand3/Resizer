@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 #logo {
     width: 50px;
 }
@@ -6,4 +11,12 @@
     color: #000;
     margin-left: 15px;
     border-color: aliceblue;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+}
+.carousel-item img {
+    object-fit: cover;
+    height: 600px;
 }
