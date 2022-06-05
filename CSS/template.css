@@ -21,3 +21,6 @@
     object-fit: cover;
     height: 550px;
 }
+p {
+    font-weight: bold;
+}
