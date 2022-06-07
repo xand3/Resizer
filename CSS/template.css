@@ -30,6 +30,9 @@ p {
 .area {
     height: 250px;
 }
+.corFundo{
+    background-color: #38b6ff;
+}
 @media(max-width: 2000px) {
     .carousel-inner {
         object-fit: fill;
