@@ -22,6 +22,8 @@
         integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
         crossorigin="anonymous"></script>
 
+    <script defer src="../JS/jquery-3.6.0.js"></script>
+
     <script src="../JS/cadastre-se.js" defer></script>
     <title>RESIZER</title>
 </head>
@@ -92,15 +94,21 @@
                             <input type="text" class="form-control bg-light btn-outline-secondary"
                                 placeholder="Insira Seu RG">
                         </div>
+
                         <div class="input-group mt-2">
-                            <input type="text" class="form-control bg-light btn-outline-secondary" placeholder="Estado">
+                            <input id="cep" type="number" class="form-control bg-light btn-outline-secondary"
+                                placeholder="CEP">
+                        </div>
+
+                        <div class="input-group mt-2">
+                            <input id="uf" type="text" class="form-control bg-light btn-outline-secondary" placeholder="Estado">
                         </div>
                         <div class="md-6 input-group mt-2">
-                            <input type="text" class="form-control bg-light btn-outline-secondary" placeholder="Cidade">
-                            <input type="text" class="form-control bg-light btn-outline-secondary" placeholder="Bairro">
+                            <input id="localidade" type="text" class="form-control bg-light btn-outline-secondary" placeholder="Cidade">
+                            <input id="bairro" type="text" class="form-control bg-light btn-outline-secondary" placeholder="Bairro">
                         </div>
                         <div class="md-2 input-group mt-2">
-                            <input type="text" class="form-control bg-light btn-outline-secondary" placeholder="Rua">
+                            <input id="logradouro" type="text" class="form-control bg-light btn-outline-secondary" placeholder="Rua">
                             <input type="number" class="form-control bg-light btn-outline-secondary" placeholder="Nº">
                         </div>
                         <div class="input-group mt-2">
