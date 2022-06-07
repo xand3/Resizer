@@ -29,3 +29,14 @@ input[type="number"] {
     -moz-appearance: textfield;
     appearance: textfield;
 }
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+.link::hover {
+    text-decoration: none;
+    color: #fff;
+}
+.no-hover:hover {
+    color: #000;
+}
