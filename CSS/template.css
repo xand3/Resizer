@@ -38,3 +38,7 @@ p {
         object-fit: fill;
     }
 }
+
+#btn {
+    color: #fff;
+}
