@@ -1,24 +1,30 @@
-.bg-color{
+.bg-color {
     background-color: #ffffff;
-    
 }
-.myBackground{
-   background-size: contain;
-   background-position: center;
-   background-repeat: no-repeat;
+.myBackground {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #logo {
     width: 50px;
 }
 
-.form-cadastro{
-    height:140vh;
+.form-cadastro {
+    height: 140vh;
 }
-.area-form{
+.area-form {
     height: 100vh;
 }
 
 p {
     font-weight: bold;
+}
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+    appearance: textfield;
 }
