@@ -39,3 +39,14 @@ $("#recuperar").on("click", function(){
         alert("E-MAIL ENVIADO COM SUCESSO")
     }
 })
+
+$("#cadastrar").on("click", function() {
+    let email = $("#email").val()
+    let teste = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/
+    let resultado = teste.test(email)
+
+    if(resultado == false) {
+        alert("DIGITE UM E-MAIL VALIDO")
+    }
+})
+
