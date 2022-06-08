@@ -25,13 +25,15 @@ $("#cep").on("blur", function () {
     }
 });
 
-let email = $("#email")
-function validaEmail(email){
-    var exclude=/[^@-.w]|^[_@.-]|[._-]{2}|[@.]{2}|(@)[^@]*1/;
-    var check=/@[w-]+./;
-    var checkend=/.[a-zA-Z]{2,3}$/;
-    if(((email.search(exclude) != -1)||(email.search(check)) == -1)||(email.search(checkend) == -1)){return false;}
-    else {
-        alert("Email invalido")
+$("#recuperar").on("click", function(){
+    let email = $("#email").val()
+    let emailConnfirn = $("#email-confirm").val()
+    let teste = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/
+    let resultado = teste.test(email)
+
+    if(resultado == false) {
+        alert("Digite um e-mail valido")
+    } else if ( email != emailConnfirn) {
+        alert("OS E-MAILS NÃO COINCIDEM")
     }
-}
+})
