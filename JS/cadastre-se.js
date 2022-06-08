@@ -35,5 +35,7 @@ $("#recuperar").on("click", function(){
         alert("Digite um e-mail valido")
     } else if ( email != emailConnfirn) {
         alert("OS E-MAILS NÃO COINCIDEM")
+    } else {
+        alert("E-MAIL ENVIADO COM SUCESSO")
     }
 })
