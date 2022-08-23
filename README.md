@@ -53,7 +53,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/Marlonalvss">
         <img src="https://cdn.discordapp.com/attachments/999712721941581977/1003868547711254528/86992904.jpg" width="100px;" alt="Foto do Marlon Alves no GitHub"/><br>
         <sub>
           <b>Marlon Alves</b>
@@ -61,7 +61,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/xand3">
         <img src="https://avatars.githubusercontent.com/u/84591023?v=4" width="100px;" alt="Foto do Alexandre Bastos no GitHub"/><br>
         <sub>
           <b>Alexandre Bastos</b>
@@ -69,7 +69,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
      <td align="center">
-      <a href="#">
+      <a href="https://github.com/camilamenacho">
         <img src="https://avatars.githubusercontent.com/u/25486661?v=4" width="100px;" alt="Foto da Camila Menacho no GitHub"/><br>
         <sub>
           <b>Camila Menacho</b>
