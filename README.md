@@ -1,15 +1,13 @@
 # PROJETO FINAL DE MÓDULO 2 - RESIZER 🟦 
 
-<img src="https://media.discordapp.net/attachments/999712721941581977/1011694072794189938/unknown.png?width=874&height=400" alt="exemplo imagem">
-
-Nesse projeto, deveriamos desenvolver páginas web que apresentam e dão detalhes de um produto também criado pelo grupo, esse produto tinha como requisito facilitar a vida de desenvolvedores. Tendo esse requisito em mente criamos a Resizer uma plataforma que ensina a como criar sites responsivos. Para conhecer melhor acesse <a href="https://xand3.github.io/Projeto-Final-2-Resilia/" target="_blank">aqui</a>
+Nesse projeto, deveriamos desenvolver páginas web que apresentam e dão detalhes de um produto também criado pelo grupo, esse produto tinha como requisito facilitar a vida de desenvolvedores. Tendo esse requisito em mente criamos a Resizer uma plataforma que ensina a como criar sites responsivos. Para conhecer melhor acesse <a href="https://xand3.github.io/Projeto-Final-2-Resilia/" target="_blank">aqui</a>.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente do `VSCODE`
+* Você instalou a versão mais recente do `VSCODE`.
 * Você entende como funciona o Bootstrap.
-* você sabe utilizar o Jquery
+* você sabe utilizar o Jquery.
 * Você tem uma máquina `<Windows>`.
 
 ## 🚀 Instalando <RESIZER - Modulo 2>
@@ -54,7 +52,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/Marlonalvss">
-        <img src="https://cdn.discordapp.com/attachments/999712721941581977/1003868547711254528/86992904.jpg" width="100px;" alt="Foto do Marlon Alves no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/86992904?v=4" width="100px;" alt="Foto do Marlon Alves no GitHub"/><br>
         <sub>
           <b>Marlon Alves</b>
         </sub>
